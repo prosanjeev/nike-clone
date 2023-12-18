@@ -1,0 +1,48 @@
+.hero{
+    display: flex;
+    height: calc(100vh-72px);
+    align-items: center;
+}
+.hero-contant{
+    display: flex;
+    flex-direction: column;
+}
+.hero h1{
+    font-size: 108px;
+    font-weight: 800;
+    line-height: 102px;
+    margin-bottom: 0;
+}
+.hero p{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    max-width: 400px;
+}
+.hero-btn{
+    display: flex;
+    gap: 40px;
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 600;
+}
+
+.hero-btn .second-button{
+    all: unset;
+    padding: 6px 16px;
+    background-color: transparent;
+    color: #5A5959;
+    border: 1px solid gray;
+}
+.shoping p{
+    font-size: 16px;
+    color: gray;
+    margin-bottom: 8px;
+}
+.brand-icon{
+    display: flex;
+    gap: 15px;
+}
+.hero-img{
+   
+}
