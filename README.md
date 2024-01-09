@@ -1,3 +1,3 @@
 # nike-clone Hero Section Landing Page
-nike clone home page with navigation
+nike clone home page with navigation in react js
 ![project1 screenshot](https://github.com/prosanjeev/nike-clone/assets/154009697/9ed707eb-3cb6-4cbe-b43d-a91c9799db94)
